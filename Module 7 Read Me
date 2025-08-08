@@ -1,0 +1,24 @@
+# Module 7: Monitoring, Auditing, and Continuous Improvement
+
+This repository contains my portfolio work for **Module 7** of the Kompass Education *Certified AI Governance Officer* course. The module focuses on post-deployment responsibilities: how to monitor AI systems, conduct internal audits and implement continuous improvement strategies to ensure legal compliance and ethical performance over time.
+
+## Contents
+
+- **MonitoringPlan/**  
+  Contains a detailed Monitoring Plan for an AI-powered grading tool used in a high school setting (ages 12-18). The plan outlines key performance and governance metrics, responsible roles, data collection methods and review frequency.
+
+- **AuditReport/** 
+  Will include a completed internal AI Audit Checklist and a summary report identifying risks, findings and remediation steps.
+
+- **ContinuousImprovement/**   
+  Will provide a practical improvement framework or case study showing how monitoring and audit insights can drive iterative improvement in the school context.
+
+- **DashboardPrototype/**   
+  Will show how key technical, ethical, and compliance metrics can be visualized in a dashboard for easier ongoing governance.
+
+## Purpose
+
+The goal of this repository is to demonstrate how I apply the principles of ongoing monitoring, auditing and adaptive improvement to the real-world use of AI tools in secondary education. All work reflects current best practices under the **EU AI Act** (e.g. Article 17 - Quality Management System) and **GDPR** (e.g. ongoing accountability and privacy compliance).
+
+By including these artifacts, I aim to show that I can translate legal and ethical requirements into practical, school-based governance tools—contributing to safer, fairer and more transparent AI use for students and staff.
+
