@@ -1,0 +1,71 @@
+# AI Performance Metrics Dashboard: EduScan
+
+**System Name:** EduScan  
+**Deployed In:** English Language Arts – Years 12–13  
+**Dashboard Owner:** AI Governance Officer  
+**Update Frequency:** Monthly  
+
+This dashboard is designed to track critical performance, compliance, and ethical indicators for the EduScan AI system. It supports ongoing monitoring, audits, and continuous improvement.
+
+
+
+## 📊 Dashboard Overview (Sample Visual Layout)
+
+| Metric Category            | Metric                                 | Current Value | Target/Threshold         | Status        | Notes                                  |
+|---------------------------|----------------------------------------|---------------|---------------------------|----------------|----------------------------------------|
+| 📈 Accuracy & Reliability | Teacher–AI Feedback Alignment          | 88%           | Target: ≥ 90%             | ⚠️ Yellow     | Slightly below benchmark. Under review. |
+|                           | System Uptime                          | 99.7%         | Threshold: ≥ 98%          | ✅ Green       | Stable                                  |
+|                           | Avg. Response Time (sec)               | 2.1 sec       | Threshold: < 3 sec        | ✅ Green       | Acceptable latency                     |
+| ⚖️ Fairness & Bias        | Accuracy Gap: Native vs Non-native     | 6%            | Alert if > 5%             | 🔴 Red         | Retraining in progress                 |
+|                           | Gender Performance Parity              | < 1% gap      | Alert if > 5%             | ✅ Green       | No concern                             |
+| 👥 User Engagement        | Teacher Weekly Usage                   | 87% of users  | Target: ≥ 80%             | ✅ Green       | High engagement                        |
+|                           | Student Feedback Score                 | 3.9/5         | Target: ≥ 3.5             | ✅ Green       | Collected via post-assignment surveys  |
+| 🔍 Transparency           | Explanations Provided Per Output       | 100%          | Target: 100%              | ✅ Green       | All outputs include justifications     |
+|                           | “Why did it say that?” queries         | 3 this month  | Alert if > 5/month        | ✅ Green       | No transparency breakdowns             |
+| ⚠️ Incidents & Compliance | Number of AI Incidents (this term)     | 1             | Alert if > 1              | ⚠️ Yellow     | Resolved – feedback language confusion |
+|                           | DPIA Status                            | ✅ Up to date | Must be current            | ✅ Green       | Last updated: Jan 2025                 |
+|                           | Consent Records                        | ✅ 100%       | Must be 100%               | ✅ Green       | No missing consent                     |
+
+
+
+## 📌 Visual Example (Static Representation)
+
+![EduScan Dashboard Example](https://via.placeholder.com/800x400?text=Insert+Your+Dashboard+Chart+Here)
+
+> Use Excel, Google Sheets, or tools like Power BI / Tableau to build a visual dashboard for actual use. The markdown file should describe the metrics and their purpose even if no image is embedded.
+
+
+## 🔁 Review Schedule
+
+- **Weekly:** Check engagement metrics, incident logs.
+- **Monthly:** Accuracy, fairness, and transparency review.
+- **Quarterly:** Dashboard reviewed during AI Governance Committee meeting.
+- **Annually:** Metrics presented as part of school improvement plan.
+
+
+
+## 📥 Data Sources
+
+- Teacher override logs (accuracy comparison)
+- System logs (uptime, latency)
+- Student surveys (feedback)
+- Demographic breakdowns from SIS (bias monitoring)
+- Issue tracker (incident logging)
+
+
+
+## 🔒 Privacy and Access
+
+- This dashboard is visible to school leadership and AI Governance Committee.
+- A simplified public summary is shared with parents annually to promote trust.
+
+
+
+## ✅ Version Control
+
+- Initial version created: 2025-08-08
+- Next scheduled update: 2025-09-01
+
+
+
+*This dashboard aligns with EU AI Act Article 17 (Monitoring), Article 20 (Corrective Action), and GDPR’s accountability principle.*
