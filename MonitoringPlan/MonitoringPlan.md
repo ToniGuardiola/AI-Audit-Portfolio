@@ -3,7 +3,7 @@
 ## 1. System Overview
 
 **System Name:** EduScan  
-**Function:** AI-powered homework grading and feedback assistant used in upper primary and secondary school classrooms.  
+**Function:** AI-powered homework grading and feedback assistant used in secondary school classrooms.  
 **Deployment Context:** Teachers upload student essays or short-answer responses. EduScan provides draft scores, highlights key strengths/weaknesses, and suggests comments aligned to rubrics.
 
 
@@ -23,7 +23,7 @@
 |----------------------------------|---------------------------------------------------------------------------|
 | **Performance & Accuracy**       | - Monthly average deviation from teacher-assigned grades (target: <10%)  |
 |                                 | - Error rate trend (month over month)                                     |
-| **Bias/Fairness**               | - Accuracy by demographic group (e.g., native vs non-native speakers)     |
+| **Bias/Fairness**               | - Accuracy by demographic group (e.g. native vs non-native speakers)     |
 |                                 | - Incidents of flagged bias/inconsistency                                 |
 | **User Feedback**              | - Teacher satisfaction rating (survey per term)                           |
 |                                 | - Number of teacher overrides (manual edits to AI feedback)               |
