@@ -6,7 +6,7 @@
 **Function:** AI-powered homework grading and feedback assistant used in upper primary and secondary school classrooms.  
 **Deployment Context:** Teachers upload student essays or short-answer responses. EduScan provides draft scores, highlights key strengths/weaknesses, and suggests comments aligned to rubrics.
 
----
+
 
 ## 2. Monitoring Objectives
 
@@ -15,7 +15,7 @@
 - Maintain compliance with the EU AI Act (Article 17) and GDPR (ongoing accountability).
 - Protect student rights and support transparent, ethical use of AI in classrooms.
 
----
+
 
 ## 3. Key Metrics to Track
 
@@ -34,7 +34,7 @@
 | **Reliability/Uptime**          | - Weekly system availability (target: 99%+)                               |
 |                                 | - Number of system crashes or critical bugs                               |
 
----
+
 
 ## 4. Monitoring Frequency & Tools
 
@@ -47,7 +47,7 @@
 | Compliance              | Biannually           | GDPR logbook; DPIA tracking sheet           |
 | Reliability             | Ongoing (daily)      | IT system logs; alerts for downtime         |
 
----
+
 
 ## 5. Roles and Responsibilities
 
@@ -59,7 +59,7 @@
 | Data Protection Officer      | Reviews compliance indicators (e.g., DPIA, consent)      |
 | Vendor (EduScan Provider)    | Provides system update notes and technical logs          |
 
----
+
 
 ## 6. Monitoring Outcomes & Escalation
 
@@ -69,7 +69,7 @@
   - Notification to vendor for resolution
   - Internal review and possible update to risk register
 
----
+
 
 ## 7. Documentation and Storage
 
@@ -77,7 +77,7 @@
 - Termly reports will be reviewed during AI governance committee meetings.
 - Summarised results will be shared with school leadership and included in annual improvement planning.
 
----
+
 
 ## 8. Review Schedule
 
@@ -87,9 +87,9 @@
 | Audit Comparison Check | Each semester         |
 | Metric Thresholds      | Reviewed quarterly    |
 
----
+
 
 **Last Updated:** August 2025  
 **Next Scheduled Review:** June 2026  
-**Maintained by:** [Your Name], AI Governance Officer  
+**Maintained by:** Maria-Antònia Guardiola, AI Governance Officer  
 
