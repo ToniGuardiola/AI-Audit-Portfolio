@@ -14,6 +14,7 @@ This repository consolidates all deliverables from Modules 1–9 of the AI Gover
 - `Module_7_Monitoring_Auditing/` – Monitoring plan & audit checklist
 - `Module_8_Incident_Response/` – Incident response plan & matrix
 - `Module_9_Training_Capacity/` – Training needs assessment, role-specific plans, student AI literacy curriculum, continuous learning framework
+- `Module_10_Capstone/`Regulatory snapshot (GDPR × EU AI Act), digital-debt audit & 90-day roadmap, governance checklist, case studies, final reflections & quiz, ethics pledge, and coaching-session prep.
 - `Portfolio_Evidence/` – Quiz confirmations, attendance logs, feedback
 
 ## How to Navigate
